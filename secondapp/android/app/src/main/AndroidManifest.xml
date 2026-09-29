@@ -41,7 +41,8 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data android:scheme="https" />
-                <data android:host="amedaz-labs.github.io" />
+                <data android:host="tony-el-hakim.github.io" />
+                <data android:pathPrefix="/amdez-labs.github.io" />
 
             </intent-filter>
 
